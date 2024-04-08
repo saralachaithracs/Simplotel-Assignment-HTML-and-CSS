@@ -1,1 +1,1 @@
-# Simplotel-Assignment-HTML-and-CSS
+![Uploading HTML AND CSS.png…]()
